@@ -1,0 +1,7 @@
+[submodule "reactspotify"]
+	path = frontend/reactspotify
+	url = https://github.com/Yulian302/react-spotify.git
+
+[submodule "gospotify"]
+	path = backend/gospotify
+	url = https://github.com/Yulian302/go-spotify.git
